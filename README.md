@@ -4,7 +4,7 @@
 
 ![Project Status](https://img.shields.io/badge/Status-MVP%20%28Private%29-orange)
 ![Tech Stack](https://img.shields.io/badge/Stack-React%20%7C%20Three.js%20%7C%20React--Three--Fiber-black)
-![Performance](https://img.shields.io/badge/FPS-60%2B-green)
+![Performance](https://img.shields.io/badge/FPS-60%2B-green) 
 
 ## 📖 El Problema
 Los talleres de herrería y soldadura suelen depender de bocetos en papel o software de ingeniería extremadamente costoso y complejo (AutoCAD/SolidWorks) solo para calcular cortes simples.
@@ -46,9 +46,12 @@ El sistema no solo "dibuja", sino que **entiende** lo que dibuja.
 > *El sistema permite visualizar la estructura desde cualquier ángulo antes de cortar un solo fierro.*
 
 **Vista General del Editor**
-*(Aquí iría una captura de tu app mostrando el grid y un modelo 3D)*
-**Panel de Configuración de Medidas**
-*(Captura del menú lateral donde cambias las medidas)*
+<img width="1915" height="916" alt="1CAD" src="https://github.com/user-attachments/assets/c1007bc4-a052-4fc6-8595-e71267233d19" />
+<img width="1917" height="961" alt="2cad" src="https://github.com/user-attachments/assets/fa6a41da-4396-4202-bdf9-f4c2d0380f7a" />
+<img width="1919" height="915" alt="3cad" src="https://github.com/user-attachments/assets/10d3aabe-8904-4349-90c4-2c389bc26122" />
+
+
+
 ---
 ### 👨‍💻 Santiago Iturralde - High Performance Web Graphics
 [Ver Portafolio](https://portafolio-kappa-kohl.vercel.app/)
